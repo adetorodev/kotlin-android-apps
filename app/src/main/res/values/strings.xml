@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">kotlin Apps</string>
+    <string name="welcome_to_lottery_app">Welcome to Lottery App</string>
 </resources>
